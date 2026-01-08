@@ -47,6 +47,9 @@ Students should pick **one dataset/problem** and commit to it early.
 ## How to Run
 
 ### 1. Local Setup
+
+For detailed instructions on how to configure your environment to work with these projects, please refer to the [Student Instructions](https://github.com/aunexus-lab/atlantis-nexus/blob/main/definitions/student_instructions.md).
+
 1.  Install dependencies:
     ```bash
     pip install -r requirements.txt
